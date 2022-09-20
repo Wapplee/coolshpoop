@@ -1,3 +1,3 @@
 https://google.com/
 
-https://www.nebulaproxies.gq/
+https://www.roblox.com/
