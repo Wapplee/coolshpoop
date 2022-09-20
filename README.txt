@@ -1,3 +1,3 @@
 https://google.com/
 
-https://www.nebulaofficial.gq/
+https://www.nebulaproxies.gq/
