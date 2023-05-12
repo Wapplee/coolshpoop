@@ -8,7 +8,8 @@
 // ==/UserScript==
 
 
-/* to make it work get your principle/teacher to unblock jsfiddle.net and you can now use this!*/
+/* to make it work get your principle/teacher to unblock jsfiddle.net and you can now use this! (make sure they dont add https etc etc.*/
+/*teacher must only enter jsfiddle.net or else it wont work.*/
 (function() {
     'use strict';
     if (document.URL.search("\\?jsfiddle.net")==-1 ? true : false) {
